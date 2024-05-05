@@ -66,3 +66,14 @@
 #         newlist.append(eded)
 
 # print( newlist)
+
+
+
+
+
+# def myfunc(num):
+#   num = [1,2,3,4,5]
+#   return lambda num : num * 2
+
+# myfunc()
+
